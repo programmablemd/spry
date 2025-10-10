@@ -25,8 +25,8 @@ SELECT 'shell' AS component,
        'https://www.surveilr.com/assets/brand/compliance-explorer.png' AS image,
        'fluid' AS layout,
        true AS fixed_top_menu,
-       'index.sql' AS link,
-       '{"link":"./index.sql","title":"Home"}' AS menu_item;
+       '/' AS link,
+       '{"link":"/","title":"Home"}' AS menu_item;
 
 SET resource_json = sqlpage.read_file_as_text('spry.d/auto/resource/${ctx.path}.auto.json');
 SET page_title  = json_extract($resource_json, '$.route.caption');
@@ -38,7 +38,7 @@ SET page_title  = json_extract($resource_json, '$.route.caption');
 - `README.md` — the page source (markdown + SQL/JSON/JS/etc..) that defines the site content and cards.
 - `ingest/` — CSV files and supporting data to import into the local `sqlpage.db` (not all files listed here).
 
-The below SQL code first sets a variable (resource_json) from the JSON file and extracts the page caption. Then it adds an introductory paragraph explaining the purpose of the compliance explorer. Finally, it renders a responsive card layout (2 columns) listing key cybersecurity and data protection standards — such as CMMC, AICPA, HiTRUST, ISO 27001, HIPAA, and THSA — each with structured markdown descriptions (geography, source, version, and review date).
+The below SQL code first sets a variable (resource_json) from the JSON file and extracts the page caption. Then it adds an introductory paragraph explaining the purpose of the compliance explorer. Finally, it renders a responsive card layout (2 columns) listing key cybersecurity and data protection standards — such as CMMC, AICPA, HITRUST, ISO 27001, HIPAA, and THSA — each with structured markdown descriptions (geography, source, version, and review date).
 
 ```sql index.sql { route: { caption: "Compliance Explorer" } }
 
@@ -78,7 +78,7 @@ SELECT
   sqlpage.environment_variable('SQLPAGE_SITE_PREFIX') || '/ce/regime/aicpa.sql' as link
 UNION
 SELECT
-  'HiTRUST e1 Assessment' AS title,
+  'HITRUST e1 Assessment' AS title,
   '**Geography**: US 
 
   **Source**: HITRUST Alliance 
@@ -1030,9 +1030,9 @@ SELECT 'text' AS component,
 
 ```
 
-HiTRUST e1 Assessment page
+HITRUST e1 Assessment page
 
-```sql ce/regime/hitrust.sql { route: { caption: "HiTRUST e1 Assessment" } }
+```sql ce/regime/hitrust.sql { route: { caption: "HITRUST e1 Assessment" } }
 
 SELECT 'title' AS component, (SELECT COALESCE(title, caption)
     FROM sqlpage_aide_navigation
@@ -2293,16 +2293,16 @@ WHERE hipaa_security_rule_reference = $id::TEXT;
 
 ```
 
-HiTRUST Control Details page
+HITRUST Control Details page
 
-```sql ce/regime/hitrust_detail.sql { route: { caption: "HiTRUST Control Details" } }
+```sql ce/regime/hitrust_detail.sql { route: { caption: "HITRUST Control Details" } }
 SET resource_json = sqlpage.read_file_as_text('spry.d/auto/resource/${ctx.path}.auto.json');
 
 
     --- Breadcrumbs
     SELECT 'breadcrumb' AS component;
     SELECT 'Home' AS title,  '/' AS link;    
-    SELECT 'HiTRUST e1 Assessment' AS title,  '/ce/regime/hitrust.sql' AS link;
+    SELECT 'HITRUST e1 Assessment' AS title,  '/ce/regime/hitrust.sql' AS link;
     SELECT COALESCE($code, '') AS title, '#' AS link;
 
     --- Primary details card
@@ -2350,7 +2350,7 @@ WHERE control_id = $code::TEXT;
       '
 ' || p.body_text AS description_md
       FROM ai_ctxe_complaince_prompt p
-      WHERE p.control_id = $code AND p.documentType = 'Author Prompt' and regime = 'HiTRUST'
+      WHERE p.control_id = $code AND p.documentType = 'Author Prompt' and regime = 'HITRUST'
       ;
 
     
@@ -2375,7 +2375,7 @@ WHERE control_id = $code::TEXT;
       '
 ' || p.body_text AS description_md
       FROM ai_ctxe_complaince_prompt p
-      WHERE p.control_id = $code AND p.documentType = 'Audit Prompt' and regime = 'HiTRUST'
+      WHERE p.control_id = $code AND p.documentType = 'Audit Prompt' and regime = 'HITRUST'
       ;
  SELECT 'html' AS component,
       '</div></details>' AS html;
@@ -2397,7 +2397,7 @@ WHERE control_id = $code::TEXT;
       '
 ' || p.body_text AS description_md
       FROM ai_ctxe_policy p
-      WHERE p.control_id = $code and regimeType = 'HiTRUST';
+      WHERE p.control_id = $code and regimeType = 'HITRUST';
    SELECT 'html' AS component,
       '</div></details>' AS html;
       SELECT 'html' as component,
@@ -2706,7 +2706,7 @@ ISO 27001 v3 Control Details page
 - [`surveilr`](https://www.surveilr.com/) is used to ingest CSV files — ensure it is installed or available in your PATH.
 - Commands above assume a Unix-like shell; Windows paths/commands differ slightly.
 - The top of this `README.md` contains a YAML front-matter example used by SQLPage:
-  - siteName: Sets the site name as Cpation-Explorer.
+  - siteName: Sets the site name as compliance-explorer.
   - database_url: Points to the SQLite database (sqlpage.db) in read-write-create mode.
   - web_root: Defines the web root directory for serving files (./)
   - allow_exec: Enables execution of scripts/SQLPage commands.
