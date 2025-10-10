@@ -1,0 +1,278 @@
+#,Control Identifier,Fii ID,Common Criteria,Common Criteria type,Name,Questions Descriptions
+1,CC1-0001,FII-SCF-HRS-0005,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Employee Handbook,"Employee manual or handbook and code of conduct (if separate) with revision history, including sanction policies and performance evaluation policies"
+2,CC1-0002,FII-SCF-GOV-0004,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Executive job descriptions,"Job descriptions that define (1) the role and responsibilities and (2) the skills and expertise needed of executive management (e.g. President, CIO, CTO, CEO, CFO, etc.) Please provide evidence of executive management job postings if available as well"
+3,CC1-0003,FII-SCF-HRS-0003,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Org Chart,Organizational chart with revision history
+4,CC1-0004,FII-SCF-IRO-0012,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Information Security Policy,Information security policies and procedures (including hiring and termination procedures; logging procedures; monitoring procedures) with revision history
+5,CC1-0005,FII-SCF-TPM-0002,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Policies posted to intranet,"Screenshot showing key policies and procedures (e.g. Information Security, Change Management, Incident Management) and the code of conduct/employee handbook were available to employees via company intranet or shared drive"
+6,CC1-0006,FII-SCF-HRS-0004,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,List of new hires,Listing of all personnel hired during the audit period
+7,CC1-0007,FII-SCF-HRS-0005,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Signed handbook for new hires (sample),Signed employee handbook and code of conduct acknowledgements for a sample of new hires
+8,CC1-0008,FII-SCF-HRS-0004,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,List of employees,"Listing of all current employees, including executive management"
+9,CC1-0009,FII-SCF-HRS-0003.2,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Employee competency review (sample),"For a sample of current employees, evidence that competencies and skills evaluations were performed annually. Evidence could include evaluation forms, tracking tool/spreadsheet, or certificates
+"
+10,CC1-0010,FII-SCF-TPM-0001,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Vendor list,Listing of business partners / third parties / vendors / service providers
+11,CC1-0011,FII-SCF-GOV-0004,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Annual review of Executive job descriptions,"Evidence that job descriptions of executive management (e.g. President, CIO, CTO, CEO, CFO, etc.) are reviewed annually. Evidence could include a revision date on the job descriptions, emails, signoffs on the job descriptions"
+12,CC1-0012,FII-SCF-HRS-0011,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Internal Controls Matrix,"Internal Controls Matrix that includes:
+- a list of the internal controls implemented within the environment and technology infrastructure
+- who owns and operates each of the internal controls in place
+- the type of control (manual, automated, preventive, detective, corrective) 
+- frequency control operates (daily, weekly, monthly, quarterly, yearly, multiple times a day)
+- documenting the relationship and linkage between business processes, the relevant technologies used to support the business processes, and the controls in place to help secure those business processes"
+13,CC1-0013,FII-SCF-GOV-0001.1,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Management internal controls performance meeting,"Evidence (e.g. meeting minutes, reports, notes, PowerPoint deck, emails, etc.) that executive management met with operational management annually to assess the effectiveness and performance of internal controls within the environment"
+14,CC1-0014,FII-SCF-HRS-0003,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Job descriptions posted to intranet,Screenshot showing job descriptions were available to employees via company intranet or shared drive
+15,CC1-0015,FII-SCF-SAT-0001,CC1 - Common Criteria Related to Control Environment,CC1 Key Controls,Information Security Awareness Training,Evidence of the information security and awareness training program created for employees. Evidence could include PowerPoint deck or the actual training program materials/documentation
+16,CC1-0016,FII-SCF-HRS-0004,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Background checks for new hires (sample),Completed background checks for a sample of new hires
+17,CC1-0017,FII-SCF-HRS-0006.1,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Medium to report unethical behavior,"Evidence that employees, third-parties, and customers are directed on how to report unethical behavior in a confidential manner, such as an anonymous hotline phone number or anonymous e-mail address box.  (e.g. policies/procedures on reporting unethical behavior, emails on reporting unethical behavior, PowerPoint deck, website)"
+18,CC1-0018,FII-SCF-BCD-0010.1,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Third party contract template,"Third party agreement / contract template that third parties/vendors/service providers sign. Ensure agreement / contract includes: 
+-Terms and conditions
+- Third party commitments, requirements and responsibilities
+- Entity commitments, requirements and responsibilities
+- How to report incidents, failures, complaints
+- Training
+- Causes for Termination"
+19,CC1-0019,FII-SCF-BCD-0010.1,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Sample of third party contracts (sample),"Contract (third party agreement) for a sample of third-parties/vendors/service providers
+"
+20,CC1-0020,FII-SCF-HRS-0003.2,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Performance Reviews (sample),"For a sample of current employees, evidence that a performance and conduct evaluation was performed annually. Evidence could include performance and conduct evaluation forms, a tracking tool/spreadsheet, or certificates"
+21,CC1-0021,FII-SCF-TPM-0001,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Vendor SOC Reports,"Attestation report (e.g. PCI, SOC, ISO) for third party / vendor / service providers"
+22,CC1-0022,FII-SCF-GOV-0004,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Job description annual review (sample),A sample of job descriptions including evidence the job descriptions were reviewed annually
+23,CC1-0023,FII-SCF-TPM-0001,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Vendor risk assessment policy,Vendor risk assessment policies and procedures with revision history
+24,CC1-0024,FII-SCF-HRS-0010,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Vendor risk assessment,"Most recently completed vendor risk assessment
+Vendor risk assessment evidence should include:
+- documenting the operations / responsibilities / activities of the third party/vendor/service provider
+- documenting the threats and vulnerabilities arising from customers, vendors and third-parties.
+- identifying and documenting the risks relating to the vulnerabilities
+- addressing / mitigating the identified risks 
+- assigning responsibility for remediation efforts
+- management review/sign off on the vendor risk assessment"
+25,CC1-0025,FII-SCF-HRS-0004,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Competency review for new hires (sample),"For a sample of new hires, evidence that competencies, skills, and experiences were evaluated prior to hiring, and how candidates are recruited for job openings. Evidence could include the new hire's resume, interview notes/comments, hiring checklist, interview questionnaire, job application, certificates"
+26,CC1-0026,FII-SCF-HRS-0010,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Competency review for vendors (sample),"For a sample of business partners / third parties / vendors, evidence that competencies, skills, and experiences were evaluated prior to working with them. Evidence could include obtaining and reviewing the third party's resume or request for proposal, questionnaire, website, or it could be part of a vendor risk assessment"
+27,CC1-0027,FII-SCF-GOV-0005,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Current employee training,"For current employees, evidence of annual training completed relating to job role and responsibilities."
+28,CC1-0028,FII-SCF-GOV-0005.1,CC1 - Common Criteria Related to Control Environment,CC1 Supporting Controls,Current employee cross-training,Evidence that employees are cross-trained in roles and responsibilities. Evidence could include training materials; policies and procedures relating to training requirements; PowerPoint deck
+29,CC2-0001,FII-SCF-MON-0001.5,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Intrusion Detection/Prevention System (IDS/IPS),"Intrusion Detection System (IDS) configurations and/or Intrusion Prevention System (IPS), example log, and example alert"
+30,CC2-0002,FII-SCF-NET-0002,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Network diagram,Network diagram showing firewalls and IDS and/or IPS in place
+31,CC2-0003,FII-SCF-CRY-0003,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Encryption algorithms,"Encryption methods and configurations for data in transit (SSL, TLS, VPN, etc.)"
+32,CC2-0004,FII-SCF-CRY-0005,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Encryption configurations,"Encryption methods (AES, 3DES, ECC, Diffie-Hellman, RSA) and configurations for data at rest. As part of this evidence, please provide evidence that:
+1. stored passwords are encrypted
+2. stored backup media is encrypted"
+33,CC2-0005,FII-SCF-DCH-0018,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Data retention policy,Data retention policies and procedures with revision history
+34,CC2-0006,FII-SCF-IRO-0001,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Incident response policy,"Incident response policies and procedures with revision history 
+
+Ensure policies and procedures cover incidents, failures, concerns, complaints"
+35,CC2-0007,FII-SCF-SAT-0001,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Information Security Awareness Training tracking,"Evidence that Information security and awareness training is tracked and monitored for employees (e.g. tracking tool, spreadsheet)"
+36,CC2-0008,FII-SCF-BCD-0010.1,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Customer service agreement template,Service agreement / contract template provided to customers
+37,CC2-0009,FII-SCF-CHG-0002,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Medium to communicate service commitment changes,"Evidence that changes to commitments, requirements, and responsibilities are communicated to third parties, contractors, and customers via updated agreements, website notices, or mass notifications
+
+Evidence could come from the entity's website, newsletters, email, or an example updated agreement with a third party / contractor / customer that includes revision history dates"
+38,CC2-0010,FII-SCF-GOV-0001.1,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Management meeting discussing results from third party assessments,"Evidence (e.g. meeting minutes, reports, notes, PowerPoint deck, emails, etc.) that executive management met with operational management annually to discuss the results of assessments performed by third parties"
+39,CC2-0011,FII-SCF-CHG-0005,CC2 - Common Criteria Related to Information and Communications,CC2 Key Controls,Communication of system changes,"Evidence that system changes are communicated to affected users (employees and customers)
+
+Evidence could include emails, newsletters, website, intranet, shared drive, or within the actual change tickets"
+40,CC2-0012,FII-SCF-GOV-0008,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Main product/service walk through (screen share),"Opportunity to observe and walk through product and services in scope, review data entered in the in-scope system, review data processed, and review data outputted from the in-scope system for completeness / accuracy"
+41,CC2-0013,FII-SCF-AST-0004,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Data flow diagram,"Data flow diagrams, process flow charts, and narratives identifying how data flows within the environment including the relevant information sources and systems"
+42,CC2-0014,FII-SCF-MON-0001.7,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,File integrity monitoring,File integrity monitoring software configurations and example alert generated from the file integrity monitoring software
+43,CC2-0015,FII-SCF-NET-0012.2,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,VPN authentication configuration,VPN authentication configurations including password settings
+44,CC2-0015.1,FII-SCF-NET-0004,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,SSH authentication configurations,Provide evidence of SSH configurations and authentication screenshots for access via secured shell to production instances/servers requiring SSH access.
+45,CC2-0015.2,FII-SCF-IAC-0010,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Multi-Factor Authentication,"Evidence of Multi-Factor Authentication configurations, including initial MFA token, session keys, etc., in use for access to the in-scope networks, operating systems, databases, and applications."
+46,CC2-0016,FII-SCF-SAT-0001,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Information Security Awareness Training new hire testing (sample),"For a sample of new hires, evidence that information security and awareness training was performed upon hire.  Evidence could include training completion forms, tracking tool/spreadsheet, or certificates"
+47,CC2-0017,FII-SCF-SAT-0002,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Information Security Awareness Training current employee testing (sample),"For a sample of current employees, evidence that information security and awareness training was performed annually. Evidence could include training completion forms, tracking tool/spreadsheet, or certificates"
+48,CC2-0018,FII-SCF-TPM-0002,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Policies are available to vendors/contractors,"Evidence showing key policies and procedures (e.g. Information Security, Change Management, Incident Management) were available to external parties (contractors, third parties, vendors, customers)) via company [website, shared drive, intranet, email, or contract/agreement, etc.]"
+49,CC2-0019,FII-SCF-IRO-0014,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Escalation Policy,"Copy of the Escalation policies and procedures for reporting failures, concerns, incidents, and complaints with revision history AND evidence that these escalation policies and procedures were available to external parties (contractors, third parties, vendors, customers) via company [website, shared drive, intranet, email, or contract/agreement, etc.]"
+50,CC2-0020,FII-SCF-IAC-0002,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,List of new customers,Listing of new customers during the audit period
+51,CC2-0021,FII-SCF-BCD-0010.1,CC2 - Common Criteria Related to Information and Communications,CC2 Supporting Controls,Contracts for new customers (sample),Contract (service agreement) for a sample of new customers
+52,CC3-0001,FII-SCF-GOV-0006,CC3 - Common Criteria Related to Risk Assessment,CC3 Key Controls,Company strategies and objectives,"Documentation showing the entity's organizational strategies and objectives
+
+Evidence could include PowerPoint deck, internal policies/procedures, website"
+53,CC3-0002,FII-SCF-RSK-0001,CC3 - Common Criteria Related to Risk Assessment,CC3 Key Controls,Risk Management Policy,Risk assessment/management policy with revision history
+54,CC3-0003,FII-SCF-RSK-0003,CC3 - Common Criteria Related to Risk Assessment,CC3 Key Controls,Risk Assessment,"Most recently completed risk assessment including evidence that:
+- critical assets, systems, applications, technologies, tools, and operations were identified, documented and prioritized
+- relevant statutory, regulatory, legislative and contractual requirements were identified, were considered and documented
+- the use of technology in business processes was considered
+- key management and operational personnel were considered and documented
+- third party/vendor/service provider/customer relationships were considered and documented
+- vulnerabilities and control gaps were documented and prioritized
+- risks were identified, documented and prioritized relating to the vulnerabilities
+- identified risks were addressed / mitigated 
+- remediation efforts and corrective actions were communicated and assigned to process owners
+- internal and operational controls were modified and implemented where appropriate
+- management reviewed/signed off on the risk assessment"
+55,CC3-0004,FII-SCF-RSK-0004.1,CC3 - Common Criteria Related to Risk Assessment,CC3 Key Controls,Fraud Risk Assessment,"Most recently completed fraud risk assessment including evidence that the assessment:
+- identifies and assesses the types of fraud that could impact business and operations  (e.g. fraudulent reporting, loss of assets, unauthorized system access, overriding controls, inadequate segregation of duties, default accounts/passwords; open ports and services)
+- identifies and documents the fraud-related risks 
+- addresses and mitigates the fraud-related risks
+-  documents/considers the fraud factors such as incentives, pressures, and opportunity 
+- identifies/considers how personnel could engage in fraudulent activities
+
+NOTE: Consideration of fraud risks could be part of a comprehensive risk assessment"
+56,CC3-0005,FII-SCF-HRS-0011,CC3 - Common Criteria Related to Risk Assessment,CC3 Supporting Controls,Key performance indicators (KPIs),Documented key performance indicators for operational and internal controls effectiveness (including acceptable level of issues/deviations)
+57,CC3-0006,FII-SCF-GOV-0001.1,CC3 - Common Criteria Related to Risk Assessment,CC3 Supporting Controls,Company strategies and objectives review,"Evidence (e.g. meeting minutes, reports, notes, PowerPoint deck, emails, etc.) that executive management reviewed the entity's strategies, objectives, and budgets at least annually"
+58,CC3-0007,FII-SCF-GOV-0001.1,CC3 - Common Criteria Related to Risk Assessment,CC3 Supporting Controls,Evidence of KPI review,"Evidence (e.g. meeting minutes, reports, notes, PowerPoint deck, emails, etc.) that executive management reviewed key operational reports (KPIs, control failures, bandwidth) for precision and accuracy"
+59,CC4-0001,FII-SCF-MON-0001.4,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Monitoring system configurations,"Monitoring system configurations used to monitor system performance, capacity, utilization, and unusual system activity"
+60,CC4-0002,FII-SCF-MON-0001.4,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Monitoring system notifications,Monitoring system notification configurations showing which individuals are notified when monitoring thresholds have been exceeded
+61,CC4-0003,FII-SCF-NET-0014,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Antivirus systems,Screenshot showing the antivirus software dashboard console
+62,CC4-0004,FII-SCF-BCD-0002.3,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Backup restoration test,Most recently completed backup restoration test
+63,CC4-0005,FII-SCF-BCD-0011,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Backup Configurations,Provide evidence of incremental and full backups/snapshots performed for a sample of production databases.
+64,CC4-0006,FII-SCF-IAC-0017,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,VPN user access review (sample),VPN user access reviews for a sample of months or quarters
+65,CC4-0007,FII-SCF-IAC-0017,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Network user access review (sample),Network user access reviews for a sample of months or quarters
+66,CC4-0008,FII-SCF-IAC-0017,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Operating system user access review (sample),Operating system user access reviews for a sample of months or quarters
+67,CC4-0009,FII-SCF-IAC-0017,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Database user access review (sample),Database user access reviews for a sample of months or quarters
+68,CC4-0010,FII-SCF-IAC-0017,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Application user access review (sample),Application user access reviews for a sample of months or quarters
+69,CC4-0011,FII-SCF-VPM-0006,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Vulnerability scan(s),"Most recently completed internal and external vulnerability scan results/report
+
+If vulnerability scans are performed monthly or quarterly, the auditor will haphazardly select a sample of scans"
+70,CC4-0012,FII-SCF-VPM-0006,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Penetration testing,Most recently completed annual internal and external penetration test results/report
+71,CC4-0013,FII-SCF-IRO-0001,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Risk mitigation sourced from monitoring systems,"For an example deviation or gap identified from the tool/system used to monitor/assess key systems, tools, and applications for compliance, evidence (e.g. incident ticket, emails) that the deviation was documented, investigated, and addressed"
+72,CC4-0014,FII-SCF-VPM-0006,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Key Controls,Risk mitigation sourced from vuln scan/pentest,"For an example vulnerability identified from the vulnerability scans or penetration tests, evidence (e.g. incident ticket, emails) that the vulnerability was documented, investigated, and addressed using one of the following strategies:
+- remediate the identified vulnerability;
+- avoid the risk posed by the identified vulnerability;
+- mitigate the risk posed by the identified vulnerability;
+- transfer the risk posed by the identified vulnerability; or
+- accept the risk posed by the identified vulnerability"
+73,CC4-0015,FII-SCF-GOV-0001.1,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Supporting Controls,Internal compliance assessment,"Most recently completed internal compliance assessment performed by internal audit including evidence that:
+- key systems, applications, and tools were identified and documented
+- the key systems, applications, and tools were assessed for compliance against documented policies and procedures
+- deviations and control gaps were documented
+- risks were identified and documented relating to the deviations and controls gaps
+- identified risks were addressed / mitigated 
+- remediation efforts and corrective actions were communicated and assigned to process owners
+- management reviewed/signed off on the compliance assessment
+- evidence (e.g. meeting minutes, reports, notes, emails, PowerPoint deck, emails, etc.) that executive management assessed the results of compliance, control and risk assessments, including reviewing the identified high risk vulnerabilities, deviations and controls gaps and control gaps were addressed in a timely manner."
+74,CC4-0016,FII-SCF-MON-0001.4,CC4 - Common Criteria Related to Monitoring of Controls,CC4 Supporting Controls,Tool/system to monitor/assess system configurations,"Evidence of tool/system (e.g. Qualys) used to monitor/assess key systems, tools, and applications for compliance against documented policies and procedures"
+75,CC5-0001,FII-SCF-BCD-0001,CC5 - Common Criteria Related to Control Activities,CC5 Key Controls,Business continuity/disaster recovery plan,Business continuity/disaster recovery plan with revision history
+76,CC5-0002,FII-SCF-BCD-0002.3,CC5 - Common Criteria Related to Control Activities,CC5 Key Controls,Business continuity/disaster recovery plan test results,Completed annual business continuity / disaster recovery plan test results during the audit period
+77,CC5-0003,FII-SCF-HRS-0011,CC5 - Common Criteria Related to Control Activities,CC5 Supporting Controls,Internal controls materials,"Internal Controls materials (e.g. PowerPoint decks, matrices, notes, policies and procedures)"
+78,CC5-0004,FII-SCF-GOV-0004,CC5 - Common Criteria Related to Control Activities,CC5 Supporting Controls,Segregation of duties,"Evidence that management reviews key executive and operational personnel job roles and access to verify no incompatible duties/access exists
+
+Evidence could include emails, notes, sign off on user listings reviewed"
+79,CC6-0001,FII-SCF-HRS-0009.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Asset inventory,"Inventory listing of system assets and components (servers, operating systems, databases, applications, tools, network devices) as of the audit period end date
+
+NOTE: Please provide evidence of how the listing was created (e.g. screen shot of parameters/query/filtering/explanation)"
+80,CC6-0002,FII-SCF-BCD-0002,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of networks,"Listing of In-Scope Networks as of the audit period end date
+NOTE: Networks that support the in-scope system/service"
+81,CC6-0003,FII-SCF-CFG-0004.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,User list for each IT layer,"User listings for networks, operating systems, databases, and applications"
+82,CC6-0004,FII-SCF-CFG-0004.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Admin user list for each IT layer,"Administrators/super user listing for in-scope networks, operating systems, databases, and applications"
+83,CC6-0005,FII-SCF-CFG-0004.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,User security groups for each IT layer,"Access rights associated with each group/role for in-scope networks, operating systems, databases, and applications"
+84,CC6-0006,FII-SCF-NET-0002,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,IT system screen share/observational meeting,"Opportunity to observe IT applications, data flows, and infrastructure"
+85,CC6-0007,FII-SCF-IAC-0016,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Password configurations,"Password configurations for in-scope networks, operating systems, databases, and applications"
+86,CC6-0008,FII-SCF-MON-0001.6,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Account lockout configurations,"Account lockout configurations for in-scope networks, operating systems, databases, and applications"
+87,CC6-0009,FII-SCF-MON-0001,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Audit logging configurations,"Audit logging configurations for in-scope networks, operating systems, databases, and applications"
+88,CC6-0010,FII-SCF-MON-0001,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Example audit logging,"Example audit logging extract for in-scope networks, operating systems, databases, and applications"
+89,CC6-0011,FII-SCF-HRS-0009.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of operating systems,"Listing of In-Scope Operating Systems as of the audit period end date
+
+NOTE: Only include Operating Systems that support the in-scope system/service"
+90,CC6-0012,FII-SCF-HRS-0009.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of databases,"Listing of In-Scope Databases as of the audit period end date
+
+NOTE: DBs that support the in-scope system/service"
+91,CC6-0013,FII-SCF-HRS-0009.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of applications (including products),"Listing of In-Scope Applications as of the audit period end date
+
+NOTE: Applications that support the in-scope system/service"
+92,CC6-0014,FII-SCF-HRS-0009.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of production servers,Listing of production servers as of the audit period end date
+93,CC6-0015,FII-SCF-NET-0012.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Firewall rules,"Firewall rule sets for a sample of production servers
+Evidence that Network Address Translation (NAT) is utilized to manage internal IP addresses"
+94,CC6-0016,FII-SCF-CRY-0003,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,SSL certificates,Provide evidence such as screenshots of configurations from sources where encryption is utilized showing that only verified SSL digital certificates are accepted
+95,CC6-0016.1,FII-SCF-CRY-0005,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,SFTP Configurations,"Provide evidence of secure file transfer protocol configurations, or other encrypted communication methods for FTP servers."
+96,CC6-0017,FII-SCF-CRY-0005,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Encryption Policy,"Encryption Policy - This document will be used to confirm the following:
+â€¢  The acceptance of only trusted keys and/or certificates
+â€¢  Only secure versions of protocols are in use and insecure versions are not supported
+â€¢  Encryption method (SSL, TLS, VPC)
+â€¢  Encryption key generation, security, storage, use and destruction"
+97,CC6-0018,FII-SCF-HRS-0002.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Access request tickets (sample),"For a sample of users granted access to the in-scope system/environment, evidence that:
+1 - Access request was documented
+2- Access request was approved
+3- Access was provisioned as requested
+
+Note:  Sample will be chosen from list of new hires"
+98,CC6-0019,FII-SCF-HRS-0009,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of terminations,"Listing of all personnel terminated during the audit period
+
+NOTE: Please provide evidence of how the listing was created {e.g. screen shot of parameters/query/filtering/explanation)"
+99,CC6-0020,FII-SCF-HRS-0009.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Termination tickets (sample),User revocation tickets for a sample of terminated employees
+100,CC6-0021,FII-SCF-TPM-0001,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Vendor SOC reports,Third party data centers most recent SOC report with evidence of management review
+101,CC6-0022,FII-SCF-AST-0009,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Data disposal/destruction policies,"Data disposal and destruction policies and procedures with revision history including:
+â€¢ Data storage amount and retention time is limited to what is required for legal, regulatory, and/or business requirements
+â€¢ Specific requirements for retention and destruction of sensitive / confidential data
+â€¢ Defined processes for secure deletion/destruction of data when it is no longer needed for business purposes
+(This applies to all data stored electronically on disk, databases, phone recordings, backup media, and in hardcopy format)"
+102,CC6-0023,FII-SCF-AST-0009,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Disposal requests,"Population of requests to dispose of data, purge a system, or physically destroy a system during the audit period
+
+NOTE: Please provide evidence of how the listing was created (e.g. screen shot of parameters/query/filtering/explanation)"
+103,CC6-0024,FII-SCF-AST-0009,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Evidence that data was properly disposed (sample),"For a sample of requests to dispose of data, purge a system, or physically destroy a system, evidence the data was properly disposed of, system purged, or system destroyed."
+104,CC6-0025,FII-SCF-END-0004.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Antivirus configurations,"Antivirus configurations for a sample of servers and workstations, including MS, Mac and Linux workstations. Please include update and distribution settings, virus definition level and antivirus version number, antivirus scanning schedule/settings"
+105,CC6-0026,FII-SCF-CFG-0004.2,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of production software implementors,Listing of users with access to deploy changes into the production environment
+106,CC6-0027,FII-SCF-CHG-0002,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Change management policy,Change management policies and procedures with revision history (including emergency procedures)
+107,CC6-0028,FII-SCF-VPM-0001,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,Vulnerability scanning policy,"Vulnerability scanning process policies and procedures including a requirement to scan assets, software, hardware, tools, and applications for vulnerabilities and malware prior to implementation into the environment"
+108,CC6-0029,FII-SCF-HRS-0007.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Key Controls,List of laptops/workstations,"Population of workstations with access to the in-scope system/service as of the audit period end date
+
+NOTE: Please provide evidence of how the listing was created (e.g. screen shot of parameters/query/filtering/explanation)"
+109,CC6-0030,FII-SCF-CRY-0008,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Supporting Controls,Password encryption,Evidence that stored passwords are encrypted
+110,CC6-0031,FII-SCF-DCH-0003,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Supporting Controls,Data classification policy,"Data classification (e.g. confidential, public, private) policies and procedures / scheme"
+111,CC6-0032,FII-SCF-BCD-0004,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Supporting Controls,Backup data disposal,Evidence to show that backed up data is properly disposed of when no longer needed
+112,CC6-0033,FII-SCF-HRS-0010,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Supporting Controls,Users who can recall backup media,Vendor provided listing of users with the ability to recall backup media from third party storage facility
+113,CC6-0034,FII-SCF-NET-0004.1,CC6 - Common Criteria Related to Logical & Physical Access,CC6 Supporting Controls,Download protection,"Screenshot of the warning message when an employee downloads an application or software 
+OR 
+Screenshot of the denied message when an employee downloads an application or software"
+114,CC7-0001,FII-SCF-IRO-0001,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,"Management review of incidents, root cause analysis, action plans","Evidence (e.g. meeting minutes, reports, notes, PowerPoint deck, emails, etc.) that  management reviewed reports summarizing security incidents, root cause of incidents, and corrective action plans"
+115,CC7-0002,FII-SCF-IRO-0001,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,List of security incidents,"Population of security incidents during the audit period
+
+NOTE: Please provide evidence of how the listing was created (e.g. screen shot of parameters/query/filtering/explanation)"
+116,CC7-0003,FII-SCF-IRO-0001,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,Security incident tickets (sample),Incident tickets for a sample of security incidents
+117,CC7-0004,FII-SCF-IRO-0001,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,Security impact analysis,"For critical security incidents during the audit period, evidence that an impact analysis was performed to determine the root cause, system impact, and resolution"
+118,CC7-0005,FII-SCF-VPM-0005,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,System build guides,"System build guides, procedures, and/or custom images for critical systems (e.g. servers, OS, DB)"
+119,CC7-0005.1,FII-SCF-VPM-0005,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,System patching,Evidence of most recent WSUS or Linux system patching procedures performed during review period.
+120,CC7-0006,FII-SCF-BCD-0004,CC7 - Common Criteria Related to Systems Operations,CC7 Key Controls,Backup & restoration policy,Backup and restore policies and procedures with revision history
+121,CC7-00087,FII-SCF-IRO-0001,CC7 - Common Criteria Related to Systems Operations,CC7 Supporting Controls,Notifications of critical security incidents,"For critical security incidents that resulted in unauthorized disclosure of personal information, evidence (e.g. emails, newsletters, incident ticket) that the affected users were notified"
+122,CC8-0001,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,List of application changes,"Population of application changes during the audit period
+NOTE: Please provide evidence of how the listing was created {e.g. screen shot of parameters/query/filtering/explanation)"
+123,CC8-0002,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Application change tickets,"For a sample of application changes, the documented change tickets/records showing:
+- Change was authorized
+- Change was tested
+- Change was approved
+- Who performed each function (including who implemented the change into production) 
+
+NOTE: If all types of changes (app, infrastructure, OS, DB, etc.) are tracked and managed using the same process/controls, please let us know"
+124,CC8-0003,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,List of infrastructure changes,"Population of infrastructure changes during the audit period
+
+NOTE: Please provide evidence of how the listing was created {e.g. screen shot of parameters/query/filtering/explanation)"
+125,CC8-0004,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Infrastructure change tickets,"For a sample of infrastructure changes, the documented change tickets/records showing:
+- Change was authorized
+- Change was tested
+- Change was approved
+- Who performed each function (including who implemented the change into production) 
+
+NOTE: If all types of changes (app, infrastructure, OS, DB, etc.) are tracked and managed using the same process/controls, please let us know"
+126,CC8-0005,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,List of operating system changes,"Population of operating system changes during the audit period
+
+NOTE: Please provide evidence of how the listing was created {e.g. screen shot of parameters/query/filtering/explanation)"
+127,CC8-0006,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Operation system change tickets,"For a sample of operating system changes, the documented change tickets/records showing:
+- Change was authorized
+- Change was tested
+- Change was approved
+- Who performed each function (including who implemented the change into production) 
+
+NOTE: If all types of changes (app, infrastructure, OS, DB, etc.) are tracked and managed using the same process/controls, please let us know"
+128,CC8-0007,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,List of database changes,"Population of database changes during the audit period
+
+NOTE: Please provide evidence of how the listing was created {e.g. screen shot of parameters/query/filtering/explanation)"
+129,CC8-0008,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Database change tickets,"For a sample of database changes, the documented change tickets/records showing:
+- Change was authorized
+- Change was tested
+- Change was approved
+- Who performed each function (including who implemented the change into production) 
+
+NOTE: If all types of changes (app, infrastructure, OS, DB, etc.) are tracked and managed using the same process/controls, please let us know"
+130,CC8-0009,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Change control software,Screenshot of the change control software being utilized to track system changes
+131,CC8-0009.1,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Source code software,"Evidence of system generated screenshot of configurations for the source code software (TFS, Git, SVN, etc.) utilized for the in-scope applications."
+132,CC8-0010,FII-SCF-CHG-0002,CC8 - Common Criteria Related to Change Management,CC8 Key Controls,Lower environments,"Evidence (screenshots) of separate application environments: DEV, QA and PROD"
+133,CC9-0001,FII-SCF-RSK-0001,CC9 - Common Criteria Related to Risk Mitigation,CC9 Key Controls,Cybersecurity insurance policy,Evidence of purchased cybersecurity insurance to offset a financial loss that could result from a security incident or vulnerability
+134,C1.0-0001,FII-SCF-PRI-0004,C1.0 - Confidentiality,,Confidentiality policy,"Confidentiality policies and procedures with revision history that describe:
+- defining, identifying and designating information as confidential;
+- protecting confidential information from erasure or destruction;  
+- storing confidential data;
+- retaining confidential information for only as long as is required to achieve the purpose for which the confidential data was collected and processed
+- processes in place to delete conï¬dential information in accordance with speciï¬c retention requirements"
+135,C1.0-0002,FII-SCF-AST-0001.2,C1.0 - Confidentiality,,Confidential Asset register,Inventory listing noting assets that maintain confidential data.
+136,C1.0-0003,FII-SCF-PRI-0004.1,C1.0 - Confidentiality,,Population of Confidential data,"Inventory listing of confidential data within assets, including their classification and retention period."
+137,C1.0-0004,FII-SCF-PRI-0005,C1.0 - Confidentiality,,Confidential information maintenance policy,Confidential information maintenance policies and procedures.
+138,C1.0-0005,FII-SCF-DCH-0022,C1.0 - Confidentiality,,Confidential data testing (sample),"For a sample of files/documents marked as confidential, evidence of the file / directory access permissions and the list of users with access to the confidential file/document were property limited."
+139,C1.0-0006,FII-SCF-DCH-0003,C1.0 - Confidentiality,,Confidential data disposal testing (sample),"For a sample of files/documents marked as confidential that required disposal, evidence that the file/document was disposed following the procedures documented in the Confidentiality and/or Data Disposal policies."
+140,C1.0-0007,FII-SCF-DCH-0022,C1.0 - Confidentiality,,Confidential data maintenance testing (sample),Evidence that confidential information maintenance procedures were followed for a sample of confidential information.
+141,C1.0-0008,FII-SCF-CRY-0005,C1.0 - Confidentiality,,Confidential data encryption,"Evidence that confidential information is stored in an encrypted, secure environment."
+142,A1.0-0001,FII-SCF-BCD-0012,A1.0 - Availability,,Evidence of annual backup restoration testing,Does the organization meet its availability requirements?
+143,A1.0-0002,FII-SCF-MON-0001.4,A1.0 - Availability,,Evidence of hardware usage monitoring (usage alerts),Does the organization meet its availability requirements?
